@@ -1,0 +1,6 @@
+mod ninja;
+fn main() {
+
+
+
+}
